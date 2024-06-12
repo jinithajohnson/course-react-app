@@ -7,7 +7,7 @@ const Addcourse = () => {
     const [data, changeData] = useState(
         {
               
-                "title":"",
+              "title":"",
               "description":"",
               "date":"",
               "duration":"",
